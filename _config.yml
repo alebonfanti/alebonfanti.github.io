@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  name             : "Alessandra Bonfanti"
+  avatar           : "ale_bonfanti_profile.png"
+  bio              : "Research Fellow \n (RTDA)"
+  location         : "Politecnico di Milano \n Piazza Leonardo da Vinci, 32 \n 20133 Milano"
+  employer         : "Building 4, Office 4.10"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
